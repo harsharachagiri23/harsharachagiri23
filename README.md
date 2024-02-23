@@ -21,7 +21,7 @@ a Full Stack Developer with a passion for creating impactful digital experiences
 💪 Leveraged Big Data Modelling for Click Stream Analysis for Sentiment Analysis and Data Observability for anomaly detection using AWS Kinesis, Apache Kafka, Apache Spark, Airflow, and Cassandra
 
 💪 Automated build processes incorporating CI/CD pipelines with tools like Jenkins and GitHub Actions to reduce server costs by implementing application deployments with containerization techniques with Docker, Kubernetes
-#<a name="section-1">https://camo.githubusercontent.com/925249fe45820348eea9ba066ef1993c4580ec076d305b7263e6add30707525c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64656570756d616e64616c266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137 </a> 
+
 🚀 𝐓𝐞𝐜𝐡-S𝐭𝐚𝐜𝐤:
 
 • Programming and Scripting Languages: 
