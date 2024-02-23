@@ -5,7 +5,7 @@
 🌟 ABOUT ME
 a Full Stack Developer with a passion for creating impactful digital experiences. With a Masters in Information Systems from Northeastern University and a Bachelor's in Computer Science, I bring a solid foundation in both theory and practice. My expertise spans from backend technologies like Java, Spring Boot, and in Nosql databases like MongoDB to frontend frameworks like JavaScript, React, Typescript, NextJS and Material UI. Along with expertise in cloud services like AWS. From guiding students in web technology to developing innovative platforms and automating processes, I thrive on turning ideas into reality. Let's collaborate to build something exceptional!
 
-🎓 Having graduated from 𝐍𝐨𝐫𝐭𝐡𝐞𝐚𝐬𝐭𝐞𝐫𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 with a Master of Science in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, my academics focused on honing skills with courses like Application Engineering and Design, Web Design and Development, Network Structures and Cloud Computing, and Big Data Indexing and Techniques.
+🎓 Having graduated from 𝐍𝐨𝐫𝐭𝐡𝐞𝐚𝐬𝐭𝐞𝐫𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 with a Master of Science in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, my academics focused on honing skills with courses like Application Engineering and Design, Web Design and Development, Network Structures and Cloud Computing, Database management and User Interaction and User Experience design.
 
 
 💻 Current Focus
