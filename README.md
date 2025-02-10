@@ -38,10 +38,6 @@ Graduated from **Northeastern University** with a **Master of Science in Informa
 
 - **Cross-Functional Collaboration:** Worked closely with **design** and **product** teams to translate complex requirements into intuitive UIs using **Figma** and **Material UI**.
 
-- **Big Data & Analytics:** Leveraged **AWS Kinesis**, **Apache Kafka**, and **Spark** for **clickstream analysis** and **anomaly detection**, improving data observability and performance insights.
-
-- **Responsive UI Design:** Developed **responsive web applications** using **React**, **Next.js**, and **Material UI**, increasing user engagement by 30%.
-
 - **Database Management:** Designed and optimized **SQL** and **NoSQL** databases like **PostgreSQL**, **MongoDB**, and **DynamoDB** for efficient data handling.
 
 - **Mentorship & Teaching:** Provided **technical instruction** at **Icode**, mentoring students in web technologies and enhancing learning outcomes by 30%.
@@ -51,7 +47,6 @@ Graduated from **Northeastern University** with a **Master of Science in Informa
 - **Cost Optimization:** Reduced server costs by implementing **containerization** techniques with **Docker** and **Kubernetes**, and optimizing resource usage on **AWS**.
 
 - **Agile Development:** Led **Agile** sprints using **Azure DevOps**, improving team productivity and sprint efficiency by 30%.
-
 
 
 ---
