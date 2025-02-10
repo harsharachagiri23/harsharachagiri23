@@ -24,19 +24,42 @@ Graduated from **Northeastern University** with a **Master of Science in Informa
 
 ---
 
-💪 **What I Bring to the Table**  
-- Built and deployed cloud-native applications on **AWS ECS** with **scheduled auto-scaling**, optimizing resource utilization and performance.  
-- Developed secure, scalable APIs with **Node.js** and **GraphQL**, improving data flow and reducing response times.  
-- Integrated **real-time data visualization** tools like **ECharts** and **AG Grids**, boosting user engagement by 30%.  
-- Automated CI/CD pipelines with **Jenkins** and **GitHub Actions**, reducing deployment cycles by 90%.  
-- Leveraged **Big Data Modeling** for sentiment analysis and data observability using **AWS Kinesis**, **Apache Kafka**, and **Spark**.
+💪 **What I Bring to the Table**
+
+- **Scalable Application Development:** Designed and deployed **microservice architectures** with **Node.js** and **GraphQL**, ensuring high availability and performance.
+  
+- **Cloud-Native Solutions:** Implemented **AWS ECS** deployments with **scheduled auto-scaling**, optimizing resource utilization and reducing operational costs.
+
+- **Real-Time Data Handling:** Integrated **ECharts** and **AG Grids** for interactive, real-time dashboards, boosting data analysis efficiency by 25%.
+
+- **API Development & Security:** Built secure **RESTful APIs** with **JWT authentication**, **OAuth**, and **RBAC**, safeguarding sensitive data and enhancing system security.
+
+- **Automation & CI/CD Pipelines:** Automated build and deployment processes using **Jenkins**, **GitHub Actions**, and **Docker**, cutting manual interventions by 90% and speeding up delivery cycles.
+
+- **Cross-Functional Collaboration:** Worked closely with **design** and **product** teams to translate complex requirements into intuitive UIs using **Figma** and **Material UI**.
+
+- **Big Data & Analytics:** Leveraged **AWS Kinesis**, **Apache Kafka**, and **Spark** for **clickstream analysis** and **anomaly detection**, improving data observability and performance insights.
+
+- **Responsive UI Design:** Developed **responsive web applications** using **React**, **Next.js**, and **Material UI**, increasing user engagement by 30%.
+
+- **Database Management:** Designed and optimized **SQL** and **NoSQL** databases like **PostgreSQL**, **MongoDB**, and **DynamoDB** for efficient data handling.
+
+- **Mentorship & Teaching:** Provided **technical instruction** at **Icode**, mentoring students in web technologies and enhancing learning outcomes by 30%.
+
+- **Problem Solving & Debugging:** Resolved critical bugs and performance issues, improving application stability and reducing downtime in production environments.
+
+- **Cost Optimization:** Reduced server costs by implementing **containerization** techniques with **Docker** and **Kubernetes**, and optimizing resource usage on **AWS**.
+
+- **Agile Development:** Led **Agile** sprints using **Azure DevOps**, improving team productivity and sprint efficiency by 30%.
+
+
 
 ---
 
 🚀 **Tech Stack**  
 
 **Languages & Scripting:**  
-JavaScript, TypeScript, Python, C++, SQL, Shell, YAML  
+JavaScript, TypeScript, Python, Java, C++, SQL
 
 **Frontend Technologies:**  
 HTML, CSS, React, Next.js, Redux, Material UI, Bootstrap, TailwindCSS, Angular  
