@@ -1,54 +1,105 @@
 ### Hi there 👋 I'm Harsha Vardhani Rachagiri
 
-🧠 𝗦𝘆𝘀𝘁𝗲𝗺.𝗼𝘂𝘁.𝗽𝗿𝗶𝗻𝘁𝗹𝗻("𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱!"); | 𝗽𝗿𝗶𝗻𝘁("𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱!") | 𝗰𝗼𝗻𝘀𝗼𝗹𝗲.𝗹𝗼𝗴("𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱!"); 
+🧠 𝗰𝗼𝗻𝘀𝗼𝗹𝗲.𝗹𝗼𝗴("𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱!"); | 𝗽𝗿𝗶𝗻𝘁("𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱!"); | 𝗦𝘆𝘀𝘁𝗲𝗺.𝗼𝘂𝘁.𝗽𝗿𝗶𝗻𝘁𝗹𝗻("𝗛𝗲𝗹𝗹𝗼, 𝗪𝗼𝗿𝗹𝗱!");  
 
-🌟 ABOUT ME
-a Full Stack Developer with a passion for creating impactful digital experiences. With a Masters in Information Systems from Northeastern University and a Bachelor's in Computer Science, I bring a solid foundation in both theory and practice. My expertise spans from backend technologies like Java, Spring Boot, and in Nosql databases like MongoDB to frontend frameworks like JavaScript, React, Typescript, NextJS and Material UI. Along with expertise in cloud services like AWS. From guiding students in web technology to developing innovative platforms and automating processes, I thrive on turning ideas into reality. Let's collaborate to build something exceptional!
+---
 
-🎓 Having graduated from 𝐍𝐨𝐫𝐭𝐡𝐞𝐚𝐬𝐭𝐞𝐫𝐧 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 with a Master of Science in 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, my academics focused on honing skills with courses like Application Engineering and Design, Web Design and Development, Network Structures and Cloud Computing, Database management and User Interaction and User Experience design.
+🌟 **ABOUT ME**  
+I'm a **Full Stack Developer** with a passion for creating impactful digital experiences. With a **Master’s in Information Systems** from **Northeastern University** and a **Bachelor's in Computer Science**, I specialize in full-stack development using **React, TypeScript, Node.js, GraphQL, and AWS**. From building secure APIs to designing dynamic dashboards, I thrive on turning ideas into scalable, user-friendly solutions.
+
+At **The Associated Press**, I designed **GraphQL APIs** to improve scalability and reduce response times, while integrating tools like **ECharts** and **AG Grids** for real-time dashboards. At **Icode**, I built secure APIs with **JWT authentication** and developed **OTP-based verification systems** handling high-traffic loads. My time at **Abecedarian LLC** sharpened my UI/UX skills through **Figma** prototypes, translating complex requirements into intuitive designs.
+
+---
+
+🎓 **Education**  
+Graduated from **Northeastern University** with a **Master of Science in Information Systems**. My academic journey focused on courses like **Application Engineering and Design**, **Web Development Tools and Methods**, **Cloud Computing**, **Database Management**, and **User Experience Design**.
+
+---
+
+💻 **Current Focus**  
+🚀 Enhancing user experiences with **React**, **Redux**, and **Redux Toolkit**  
+🛠️ Building **RESTful APIs** & **GraphQL** integrations using **Node.js** and **Express**  
+📊 Exploring **MongoDB** and **PostgreSQL** for efficient data management  
+☁️ Deploying scalable applications on **AWS ECS** with **Docker** and **Kubernetes**
+
+---
+
+💪 **What I Bring to the Table**  
+- Built and deployed cloud-native applications on **AWS ECS** with **scheduled auto-scaling**, optimizing resource utilization and performance.  
+- Developed secure, scalable APIs with **Node.js** and **GraphQL**, improving data flow and reducing response times.  
+- Integrated **real-time data visualization** tools like **ECharts** and **AG Grids**, boosting user engagement by 30%.  
+- Automated CI/CD pipelines with **Jenkins** and **GitHub Actions**, reducing deployment cycles by 90%.  
+- Leveraged **Big Data Modeling** for sentiment analysis and data observability using **AWS Kinesis**, **Apache Kafka**, and **Spark**.
+
+---
+
+🚀 **Tech Stack**  
+
+**Languages & Scripting:**  
+JavaScript, TypeScript, Python, C++, SQL, Shell, YAML  
+
+**Frontend Technologies:**  
+HTML, CSS, React, Next.js, Redux, Material UI, Bootstrap, TailwindCSS, Angular  
+
+**Backend & API Development:**  
+Node.js, Express, RESTful APIs, GraphQL, JWT, OAuth, Socket.io  
+
+**Databases:**  
+MongoDB, MySQL, PostgreSQL, DynamoDB, Firebase  
+
+**Cloud & DevOps:**  
+AWS (ECS, Lambda, S3, CloudFormation), Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines  
+
+**Tools & Testing:**  
+Jest, React Testing Library, Cypress, Webpack, Linux, Postman  
+
+---
+
+## 🌟 Projects
+
+### 1. Invoice Processing System
+- **Tech Stack:** React, Node.js, MongoDB, RESTful APIs
+- Developed a user-friendly system that automates invoice processing, reducing errors and enhancing speed. Integrated MongoDB and used RESTful APIs to streamline data flow and ensure easy updates for future scalability.
 
 
-💻 Current Focus
+---
 
-🚀 Enhancing user experiences with React, Redux and Redux-toolkit.
-🛠️ Building RESTful APIs using Node.js and Express.
-📊 Exploring MongoDB for efficient data management.
+### 2. Real-Time WeChat Application
+- **Tech Stack:** React, Express.js, Socket.io, JavaScript
+- Built a real-time chat application supporting individual and group communication. Integrated Socket.io for efficient message rendering, with robust user authentication and optimized message latency.
 
-💪 I empower organizations by building applications for microservice architectures with RESTful APIs and utilizing PaaS with Cloud platforms like AWS 
 
-💪 Efficiently utilized frameworks like NodeJS, Express,Spring, Spring Boot, and Micronaut for server-side programming while integrating them effectively with the front end leveraging JavaScript and its libraries like React, Typescript, Nextjs
+---
 
-💪 Leveraged Big Data Modelling for Click Stream Analysis for Sentiment Analysis and Data Observability for anomaly detection using AWS Kinesis, Apache Kafka, Apache Spark, Airflow, and Cassandra
+### 3. Scalable Twitter App on AWS ECS
+- **Tech Stack:** AWS ECS, Docker, Node.js, React
+- Deployed a Twitter-like application on AWS ECS with scheduled auto-scaling for tasks and instances. Ensured high availability and optimized resource utilization using CloudWatch monitoring and CI/CD pipelines.
 
-💪 Automated build processes incorporating CI/CD pipelines with tools like Jenkins and GitHub Actions to reduce server costs by implementing application deployments with containerization techniques with Docker, Kubernetes
 
-🚀 𝐓𝐞𝐜𝐡-S𝐭𝐚𝐜𝐤:
+---
 
-• Programming and Scripting Languages: 
-Java/J2EE, Spring Boot, Spring MVC, Micronaut, JavaScript, TypeScript, Python, Shell, YAML
+## 📜 Certifications
+- **AWS Certified Developer – Associate**  
+  *Issued:* February 2025 | *Expires:* February 2028  
+  [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/5b94e57fc732491c8dcb76787e139dbb)
 
-• Web Technologies: 
-HTML, CSS, Bootstrap, Node, Express, Typescript, NextJS, React, Redux, jQuery, Angular, Material UI, XML
+---
 
-• Database Management Systems: 
-MySQL, PostgreSQL, Elasticsearch, MongoDB, Firebase, ORM (Hibernate, Sequelize, SQLAlchemy)
+---
 
-• Cloud Services and CI/CD: 
-AWS (CloudFormation, Lambda, S3, RDS, Route53), Jenkins, Git, Docker, Kubernetes
+🌱 **Learning Journey**  
+I'm constantly expanding my skill set, currently focusing on mastering **TypeScript** and exploring **real-time systems** using **GraphQL** and **AWS AppSync**.
 
-• Tools and OS: 
-Junit5, Mockito, Maven, Apache Tomcat, Camel, Mocha, Jasmine, Karma, Cypress, Webpack, Linux
+---
 
-👏🏼 𝐄𝐱𝐭𝐫𝐚𝐬:
-• Currently Technical Instructor at Icode
-• Prepping for my AWS Certification
-• Volunteering as a Web developer at Abecedarian LLC
+💬 **Ask Me About:**  
+Community engagement, Tech workshops, Full-Stack Development, Cloud Deployments  
 
-🌱 Learning Journey
-I'm on a continuous quest to broaden my skill set and deepen my understanding of emerging technologies. Currently, my focus revolves around mastering TypeScript, a powerful superset of JavaScript that enhances code quality and scalability.
+🌐 **How to Reach Me:**  
+- 📧 [harsharachagiri23@gmail.com](mailto:harsharachagiri23@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsha-rachagiri/)  
+- 🖥️ [GitHub](https://github.com/harsharachagiri23)
 
-- 💬 Ask me about: Community engagement, leadership & managerial experiences, Tech workshops & meets
-- 🌐 How to reach me: EmailID: vardhani.h02@gmail.com
-- ⚡ Fun fact: I have recently conducted CLaymotion animation camp at community schools
-  
-📍 Currently in Boston, Let's connect, grab a cup of coffee and talk about tech and everything around it!
+---
+
+📍 **Currently in Boston** – Let’s connect over coffee and talk tech! ☕
